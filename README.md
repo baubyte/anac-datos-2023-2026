@@ -13,6 +13,6 @@ pandas lee los archivos comprimidos directamente: `pd.read_csv(ruta, sep=";")`.
 
 ## Fuente y licencia
 
-Fuente: ANAC, *Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil*, Portal de Datos Abiertos del Ministerio de Transporte (datos.transporte.gob.ar).
+Fuente: ANAC, *Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil*, Portal de Datos Abiertos (datos.gob.ar).
 
 Los datos se redistribuyen bajo la Licencia de Datos Abiertos de la República Argentina (Decreto 117/2016), que permite copiarlos y distribuirlos citando a ANAC como fuente.
